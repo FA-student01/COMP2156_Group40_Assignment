@@ -1,0 +1,21 @@
+name: Group Project CI
+
+on: [push, pull_request]
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required files exist
+        run: |
+          for file in *_gb.txt *_devops.txt *_sdlc.txt; do
+            if [ ! -f "$file" ]; then
+              echo "❌ Missing $file"
+              exit 1
+            fi
+          done
+          echo "✅ All required files are present."
