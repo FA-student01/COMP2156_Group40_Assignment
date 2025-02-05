@@ -5,4 +5,4 @@
 - **Member 2:** Faisal Malik (______) - [GitHub](https://github.com/faisalmalik0014)
 - **Member 3:** Het Nikeshkumar Patel (101416709) - [GitHub](https://github.com/hett0909)
 - **Member 4:** Jashanpreet Kaur (______) - [GitHub](https://github.com/Jashan0511)
-- **Member 5:** (_______) - [GitHub](https://github.com/) 
+- **Member 5:** SUJAN BK(101464863) - [GitHub](https://github.com/funsujan) 
