@@ -1,2 +1,3 @@
 DevOps will help to speed up and secure software delivery though process like automation,
 better collaboration, less errors, better efficiency and smoother software deployment workflow.
+The DevOps approach helps groups and teams adapt to changes faster.
