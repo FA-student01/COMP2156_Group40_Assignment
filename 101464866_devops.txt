@@ -2,4 +2,5 @@ DevOps For System Administration also known as COMP 2156 is a course that is ver
 George Brown's Computer System Technician and Technology programs due to the core data types
 and formats learned through out the course like JSON, XML, YAML and YANG. DevOps also allows
 users to enhance their value in network automation while also introducing DevOps tools like
-Git and Ansible.
+Git and Ansible. Students who complete this course will be able to carry out the role of network
+engineer using DevOps processes and tools like CI/CD.
