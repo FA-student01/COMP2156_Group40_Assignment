@@ -3,4 +3,4 @@ George Brown's Computer System Technician and Technology programs due to the cor
 and formats learned through out the course like JSON, XML, YAML and YANG. DevOps also allows
 users to enhance their value in network automation while also introducing DevOps tools like
 Git and Ansible. Students who complete this course will be able to carry out the role of network
-engineer using DevOps processes and tools like CI/CD.
+engineer using Industry-standard tools like CI/CD.
