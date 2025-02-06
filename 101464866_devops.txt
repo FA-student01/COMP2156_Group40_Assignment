@@ -4,4 +4,5 @@ and formats learned through out the course like JSON, XML, YAML and YANG. DevOps
 users to enhance their value in network automation while also introducing DevOps tools like
 Git and Ansible. Students who complete this course will be able to carry out the role of network
 engineer using Industry-standard tools like CI/CD. Students who take this course will have to
-complete and submit weekly labs.
+complete and submit weekly labs, take weekly quizes, while also being expected to complete
+2 exams and a group and personal assignment.
