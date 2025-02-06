@@ -12,7 +12,6 @@ jobs:
 
       - name: Check required files exist
         run: |
-          shopt -s nullglob  # Avoid unmatched wildcard issues
           for file in *_gb.txt *_devops.txt *_sdlc.txt; do
             if [ ! -f "$file" ]; then
               echo "❌ Missing $file"
@@ -20,4 +19,3 @@ jobs:
             fi
           done
           echo "✅ All required files are present."
-          
