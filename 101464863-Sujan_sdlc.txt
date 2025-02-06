@@ -1,3 +1,5 @@
 About DevOps Roles
 
 DevOps is a general collection of flexible software creation and delivery practices that looks to close the gap between software development and IT operations, which are two critical but often misaligned efforts. It's not a specific technology, but a tactical approach. By working together, development and operations teams can eliminate roadblocks and focus on improving the creation, deployment, and continuous monitoring of software.
+
+Eliminating friction and silos between Dev and Ops, and rallying everyone around a single source of truth enhances communication and builds a culture of trust, collaboration, and success.
