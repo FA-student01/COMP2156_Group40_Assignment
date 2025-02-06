@@ -1,5 +1,7 @@
 DevOps will help to speed up and secure software delivery though process like automation,
 better collaboration, less errors, better efficiency and smoother software deployment workflow.
-The DevOps approach helps gteams adapt to changes faster, improve system security overall and
+The DevOps approach helps teams adapt to changes faster, improve system security overall and
 helps with maintaining software through the development cycle. Ultimately, DevOps creates an
-environment of continuos improvement thus making developed software more resilient and agile.
+environment of continuos improvement thus making developed software more resilient and agile,
+this approach ensures end users are recieving the highest quality software that meets
+all their needs.
