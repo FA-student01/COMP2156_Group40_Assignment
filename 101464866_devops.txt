@@ -1,5 +1,7 @@
 What is COMP 2156 - DevOps For System Administration
 
+Description:
+
 DevOps For System Administration also known as COMP 2156 is a course that is very integral to
 George Brown's Computer System Technician and Technology programs due to the core data types
 and formats learned through out the course like JSON, XML, YAML and YANG. DevOps also allows
