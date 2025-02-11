@@ -27,4 +27,4 @@ This repository hosts the group 40's assignment for the COMP2156 DevOps course, 
 - **Pull Requests**: Create pull requests for merging feature branches into `main` after completion.  
 
 ### Notes
-Faisal and Jashan please add your student ID's to the group members section on the README.md
+Faisal please add your student ID's to the group members section on the README.md
