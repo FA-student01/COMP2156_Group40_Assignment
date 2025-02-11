@@ -1,0 +1,10 @@
+COMP3104- DevOps Course Overview
+DevOps focuses on bridging the gap between development and operations through automation and collaboration.
+The course introduces BASH scripting and CLI commands to help automate tasks and system administration.
+Students learn about Version Control Systems (VCS) like Git and GitHub, which are essential for managing source code.
+The curriculum covers monolithic vs. microservices architecture and the importance of scalability in applications.
+DevOps roles, responsibilities, and tools such as Jenkins, Docker, and Kubernetes are explored.
+The course emphasizes CI/CD pipelines, enabling continuous integration and deployment of software.
+Topics include system administration skills that help transition into a DevOps career.
+Build automation tools and web hosting concepts are introduced to streamline development workflows.
+Students gain hands-on experience with Jenkins installation and infrastructure deployment.
