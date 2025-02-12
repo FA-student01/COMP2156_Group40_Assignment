@@ -8,3 +8,4 @@ The course emphasizes CI/CD pipelines, enabling continuous integration and deplo
 Topics include system administration skills that help transition into a DevOps career.
 Build automation tools and web hosting concepts are introduced to streamline development workflows.
 Students gain hands-on experience with Jenkins installation and infrastructure deployment.
+End
