@@ -1,0 +1,11 @@
+DevOps in the software development cycle
+DevOps integrates development and operations to improve collaboration and streamline software delivery.
+It follows the DevOps lifecycle, which includes planning, development, building, testing, release, deployment, operations, and monitoring.
+Continuous Integration (CI) ensures that code changes are automatically tested and merged frequently.
+Continuous Deployment (CD) automates the release process, enabling fast and reliable software updates.
+DevOps uses version control systems (VCS) like Git to track changes and manage code efficiently.
+Infrastructure as Code (IaC) allows automated provisioning and management of infrastructure using tools like Terraform.
+Monitoring and logging help identify and resolve issues quickly, improving system reliability.
+Automation of repetitive tasks enhances efficiency and reduces human errors in software development.
+The DevOps approach leads to faster delivery, higher-quality software, and improved collaboration between teams.
+"DevOps enhances collaboration, efficiency, and automation, leading to faster software delivery and continuous innovation."
