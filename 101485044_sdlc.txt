@@ -4,3 +4,4 @@ It follows the DevOps lifecycle, which includes planning, development, building,
 Continuous Integration (CI) ensures that code changes are automatically tested and merged frequently.
 Continuous Deployment (CD) automates the release process, enabling fast and reliable software updates.
 DevOps uses version control systems (VCS) like Git to track changes and manage code efficiently.
+Infrastructure as Code (IaC) allows automated provisioning and management of infrastructure using tools like Terraform.
