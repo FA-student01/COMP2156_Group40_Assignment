@@ -6,3 +6,4 @@ Continuous Deployment (CD) automates the release process, enabling fast and reli
 DevOps uses version control systems (VCS) like Git to track changes and manage code efficiently.
 Infrastructure as Code (IaC) allows automated provisioning and management of infrastructure using tools like Terraform.
 Monitoring and logging help identify and resolve issues quickly, improving system reliability.
+Automation of repetitive tasks enhances efficiency and reduces human errors in software development.
