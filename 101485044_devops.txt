@@ -1,3 +1,4 @@
 COMP3104- DevOps Course Overview
 DevOps focuses on bridging the gap between development and operations through automation and collaboration.
 The course introduces BASH scripting and CLI commands to help automate tasks and system administration.
+Students learn about Version Control Systems (VCS) like Git and GitHub, which are essential for managing source code.
