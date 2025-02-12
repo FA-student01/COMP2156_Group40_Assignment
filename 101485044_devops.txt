@@ -6,3 +6,4 @@ The curriculum covers monolithic vs. microservices architecture and the importan
 DevOps roles, responsibilities, and tools such as Jenkins, Docker, and Kubernetes are explored.
 The course emphasizes CI/CD pipelines, enabling continuous integration and deployment of software.
 Topics include system administration skills that help transition into a DevOps career.
+Build automation tools and web hosting concepts are introduced to streamline development workflows.
