@@ -4,3 +4,4 @@ The course introduces BASH scripting and CLI commands to help automate tasks and
 Students learn about Version Control Systems (VCS) like Git and GitHub, which are essential for managing source code.
 The curriculum covers monolithic vs. microservices architecture and the importance of scalability in applications.
 DevOps roles, responsibilities, and tools such as Jenkins, Docker, and Kubernetes are explored.
+The course emphasizes CI/CD pipelines, enabling continuous integration and deployment of software.
