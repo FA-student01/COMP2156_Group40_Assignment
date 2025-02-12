@@ -5,3 +5,4 @@ Students learn about Version Control Systems (VCS) like Git and GitHub, which ar
 The curriculum covers monolithic vs. microservices architecture and the importance of scalability in applications.
 DevOps roles, responsibilities, and tools such as Jenkins, Docker, and Kubernetes are explored.
 The course emphasizes CI/CD pipelines, enabling continuous integration and deployment of software.
+Topics include system administration skills that help transition into a DevOps career.
