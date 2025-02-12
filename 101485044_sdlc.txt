@@ -1,3 +1,4 @@
 DevOps in the software development cycle
 DevOps integrates development and operations to improve collaboration and streamline software delivery.
 It follows the DevOps lifecycle, which includes planning, development, building, testing, release, deployment, operations, and monitoring.
+Continuous Integration (CI) ensures that code changes are automatically tested and merged frequently.
