@@ -9,3 +9,5 @@ DevOps tools help in automating builds, testing, and deployment processes.
 It improves collaboration between software developers, testers, and system administrators.
 
 DevOps integrates security (DevSecOps) to detect vulnerabilities early in SDLC.
+
+Companies like Netflix, Amazon, and Google use DevOps to enhance software efficiency.
