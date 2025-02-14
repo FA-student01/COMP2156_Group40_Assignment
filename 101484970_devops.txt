@@ -1,3 +1,5 @@
 The COMP 3104 DevOps course at George Brown College focuses on bridging the gap between software development and IT operations.
 
 It bridges the gap between developers (who write the code) and IT operations (who deploy and maintain the code) to make software delivery faster, more reliable, and efficient.
+
+Students learn version control using Git and GitHub for efficient teamwork.
