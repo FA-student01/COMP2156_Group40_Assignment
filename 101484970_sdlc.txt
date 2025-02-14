@@ -15,3 +15,5 @@ Companies like Netflix, Amazon, and Google use DevOps to enhance software effici
 DevOps minimizes downtime, improves scalability, and enhances user experience.
 
 Learning DevOps helps students adapt to modern cloud-based development.
+
+The demand for DevOps Engineers and Site Reliability Engineers (SREs) is growing rapidly.
