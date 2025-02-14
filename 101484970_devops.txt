@@ -5,3 +5,5 @@ It bridges the gap between developers (who write the code) and IT operations (wh
 Students learn version control using Git and GitHub for efficient teamwork.
 
 The course covers Continuous Integration (CI) and Continuous Deployment (CD) pipelines.
+
+Students gain hands-on experience with automation tools like Jenkins, Docker, and Kubernetes.
