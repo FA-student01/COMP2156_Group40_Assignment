@@ -9,3 +9,5 @@ The college provides over 160 programs, including diplomas, degrees, and certifi
 GBC is known for its hands-on learning approach with co-op and internship opportunities.
 
 The School of Computer Technology offers programs in software development, cybersecurity, and DevOps.
+
+Many GBC graduates work in top companies like Google, IBM, Microsoft, and Shopify.
