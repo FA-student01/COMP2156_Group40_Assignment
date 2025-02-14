@@ -1,0 +1,1 @@
+DevOps plays a crucial role in the Software Development Lifecycle (SDLC) by integrating development and operations, enabling continuous integration and deployment.
