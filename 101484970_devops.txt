@@ -15,3 +15,5 @@ Cloud computing with AWS, Azure, and Google Cloud is an important part of the cu
 The course prepares students for DevOps careers in software development and IT.
 
 By the end, students can automate deployments and monitor applications.
+
+DevOps is a highly demanded skill, and this course helps students gain expertise.
