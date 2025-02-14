@@ -9,3 +9,5 @@ The course covers Continuous Integration (CI) and Continuous Deployment (CD) pip
 Students gain hands-on experience with automation tools like Jenkins, Docker, and Kubernetes.
 
 Infrastructure as Code (IaC) using Terraform and Ansible is introduced.
+
+Cloud computing with AWS, Azure, and Google Cloud is an important part of the curriculum.
