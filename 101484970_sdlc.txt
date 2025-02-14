@@ -3,3 +3,5 @@ DevOps plays a crucial role in the Software Development Lifecycle (SDLC) by inte
 DevOps is crucial for modern software development because it enhances efficiency, security, and reliability.
 
 Continuous Deployment (CD) ensures faster software releases with fewer errors.
+
+DevOps tools help in automating builds, testing, and deployment processes.
