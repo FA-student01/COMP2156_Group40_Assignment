@@ -13,3 +13,5 @@ DevOps integrates security (DevSecOps) to detect vulnerabilities early in SDLC.
 Companies like Netflix, Amazon, and Google use DevOps to enhance software efficiency.
 
 DevOps minimizes downtime, improves scalability, and enhances user experience.
+
+Learning DevOps helps students adapt to modern cloud-based development.
