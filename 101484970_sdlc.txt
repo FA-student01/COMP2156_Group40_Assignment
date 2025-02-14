@@ -7,3 +7,5 @@ Continuous Deployment (CD) ensures faster software releases with fewer errors.
 DevOps tools help in automating builds, testing, and deployment processes.
 
 It improves collaboration between software developers, testers, and system administrators.
+
+DevOps integrates security (DevSecOps) to detect vulnerabilities early in SDLC.
