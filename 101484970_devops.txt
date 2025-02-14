@@ -13,3 +13,5 @@ Infrastructure as Code (IaC) using Terraform and Ansible is introduced.
 Cloud computing with AWS, Azure, and Google Cloud is an important part of the curriculum.
 
 The course prepares students for DevOps careers in software development and IT.
+
+By the end, students can automate deployments and monitor applications.
