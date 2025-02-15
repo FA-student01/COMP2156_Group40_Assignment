@@ -26,5 +26,3 @@ This repository hosts the group 40's assignment for the COMP2156 DevOps course, 
 - **Feature Branches**: Use `STUDENTID` format (e.g., `101416709-Het`).
 - **Pull Requests**: Create pull requests for merging feature branches into `main` after completion.  
 
-### Notes
-
