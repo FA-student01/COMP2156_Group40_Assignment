@@ -2,7 +2,7 @@
 
 ## Group Members 
 - **Leader:** Faiz Ahmed (101464866) - [GitHub](https://github.com/FA-student01)
-- **Member 2:** Faisal Malik (______) - [GitHub](https://github.com/faisalmalik0014) 
+- **Member 2:** Faisal Malik (101484970) - [GitHub](https://github.com/faisalmalik0014) 
 - **Member 3:** Het Nikeshkumar Patel (101416709) - [GitHub](https://github.com/hett0909)
 - **Member 4:** Jashanpreet Kaur (101485044) - [GitHub](https://github.com/Jashan0511)
 - **Member 5:** SUJAN BK (101464863) - [GitHub](https://github.com/funsujan)
@@ -27,4 +27,4 @@ This repository hosts the group 40's assignment for the COMP2156 DevOps course, 
 - **Pull Requests**: Create pull requests for merging feature branches into `main` after completion.  
 
 ### Notes
-Faisal please add your student ID's to the group members section on the README.md
+
