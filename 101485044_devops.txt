@@ -9,3 +9,4 @@ Topics include system administration skills that help transition into a DevOps c
 Build automation tools and web hosting concepts are introduced to streamline development workflows.
 Students gain hands-on experience with Jenkins installation and infrastructure deployment.
 By the end of the COMP3104 course, students will gain hands-on experience in DevOps tools, automation, and CI/CD implementation.
+The DevOps course equips students with automation, CI/CD, and cloud computing skills to streamline software development and deployment.
