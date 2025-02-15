@@ -1,1 +1,1 @@
-DevOps optimizes the SDLC by integrating development and operations, accelerating delivery, and enhancing software quality through automation and continuous feedback.
+DevOps optimizes the SDLC by integrating development and operations, accelerating delivery, and enhancing software quality through automation and continuous feedback. 
